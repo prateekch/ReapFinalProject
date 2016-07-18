@@ -106,7 +106,7 @@
 
 									</div>
 									<div class="user-footer" style="background-color: #f4f4f4;">
-										<a href="logout" target="_blank"
+										<a href="logout"
 											style="text-decoration: none;"> <b>Logout</b></a>
 									</div>
 								</div>
